@@ -4,6 +4,7 @@ This repository contains various projects, assignments, and exercises from my Pr
 
 📂 Project List
 1. Basic Calculator - A simple calculator program in C++.
+2. Conditional Statements - if, if-else, and if-else-if conditions in C++.  
 
 🔧 Technologies Used
 - C++
